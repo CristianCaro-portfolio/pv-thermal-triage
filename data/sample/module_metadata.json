@@ -1,0 +1,962 @@
+{
+ "10052": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/10052.jpg"
+ },
+ "105": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/105.jpg"
+ },
+ "10554": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/10554.jpg"
+ },
+ "11190": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/11190.jpg"
+ },
+ "11314": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/11314.jpg"
+ },
+ "1146": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/1146.jpg"
+ },
+ "12249": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/12249.jpg"
+ },
+ "1236": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/1236.jpg"
+ },
+ "12848": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/12848.jpg"
+ },
+ "12998": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/12998.jpg"
+ },
+ "14679": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/14679.jpg"
+ },
+ "14995": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/14995.jpg"
+ },
+ "1561": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/1561.jpg"
+ },
+ "15774": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/15774.jpg"
+ },
+ "1617": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/1617.jpg"
+ },
+ "162": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/162.jpg"
+ },
+ "16239": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/16239.jpg"
+ },
+ "1638": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/1638.jpg"
+ },
+ "16830": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/16830.jpg"
+ },
+ "1766": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/1766.jpg"
+ },
+ "17745": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/17745.jpg"
+ },
+ "1775": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/1775.jpg"
+ },
+ "17969": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/17969.jpg"
+ },
+ "18208": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/18208.jpg"
+ },
+ "18325": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/18325.jpg"
+ },
+ "1860": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/1860.jpg"
+ },
+ "1867": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/1867.jpg"
+ },
+ "18728": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/18728.jpg"
+ },
+ "18957": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/18957.jpg"
+ },
+ "19119": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/19119.jpg"
+ },
+ "19431": {
+  "anomaly_class": "No-Anomaly",
+  "image_filepath": "images/19431.jpg"
+ },
+ "2071": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2071.jpg"
+ },
+ "2107": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2107.jpg"
+ },
+ "2143": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2143.jpg"
+ },
+ "217": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/217.jpg"
+ },
+ "2241": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2241.jpg"
+ },
+ "2314": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2314.jpg"
+ },
+ "2334": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2334.jpg"
+ },
+ "2336": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2336.jpg"
+ },
+ "2384": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2384.jpg"
+ },
+ "2411": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2411.jpg"
+ },
+ "2414": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2414.jpg"
+ },
+ "244": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/244.jpg"
+ },
+ "2452": {
+  "anomaly_class": "Diode",
+  "image_filepath": "images/2452.jpg"
+ },
+ "248": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/248.jpg"
+ },
+ "2515": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/2515.jpg"
+ },
+ "254": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/254.jpg"
+ },
+ "2592": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/2592.jpg"
+ },
+ "2642": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/2642.jpg"
+ },
+ "2704": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/2704.jpg"
+ },
+ "2710": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/2710.jpg"
+ },
+ "2739": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/2739.jpg"
+ },
+ "2743": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/2743.jpg"
+ },
+ "2936": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/2936.jpg"
+ },
+ "3009": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3009.jpg"
+ },
+ "3039": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3039.jpg"
+ },
+ "3158": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3158.jpg"
+ },
+ "3168": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3168.jpg"
+ },
+ "318": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/318.jpg"
+ },
+ "3264": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3264.jpg"
+ },
+ "3332": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3332.jpg"
+ },
+ "3350": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3350.jpg"
+ },
+ "3381": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3381.jpg"
+ },
+ "3383": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3383.jpg"
+ },
+ "3406": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3406.jpg"
+ },
+ "3499": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3499.jpg"
+ },
+ "3513": {
+  "anomaly_class": "Shadowing",
+  "image_filepath": "images/3513.jpg"
+ },
+ "354": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/354.jpg"
+ },
+ "3610": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/3610.jpg"
+ },
+ "3674": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/3674.jpg"
+ },
+ "3753": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/3753.jpg"
+ },
+ "3794": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/3794.jpg"
+ },
+ "3871": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/3871.jpg"
+ },
+ "3897": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/3897.jpg"
+ },
+ "409": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/409.jpg"
+ },
+ "4164": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4164.jpg"
+ },
+ "4207": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4207.jpg"
+ },
+ "4211": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4211.jpg"
+ },
+ "4235": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4235.jpg"
+ },
+ "4252": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4252.jpg"
+ },
+ "4375": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4375.jpg"
+ },
+ "4399": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4399.jpg"
+ },
+ "4462": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4462.jpg"
+ },
+ "4492": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4492.jpg"
+ },
+ "4507": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4507.jpg"
+ },
+ "4639": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4639.jpg"
+ },
+ "4678": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4678.jpg"
+ },
+ "472": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/472.jpg"
+ },
+ "4757": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4757.jpg"
+ },
+ "4785": {
+  "anomaly_class": "Cell-Multi",
+  "image_filepath": "images/4785.jpg"
+ },
+ "481": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/481.jpg"
+ },
+ "4911": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/4911.jpg"
+ },
+ "4926": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/4926.jpg"
+ },
+ "5058": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/5058.jpg"
+ },
+ "5109": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/5109.jpg"
+ },
+ "5143": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/5143.jpg"
+ },
+ "5245": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/5245.jpg"
+ },
+ "527": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/527.jpg"
+ },
+ "537": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/537.jpg"
+ },
+ "5673": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/5673.jpg"
+ },
+ "5675": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/5675.jpg"
+ },
+ "5711": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/5711.jpg"
+ },
+ "5717": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/5717.jpg"
+ },
+ "5807": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/5807.jpg"
+ },
+ "5986": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/5986.jpg"
+ },
+ "6025": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/6025.jpg"
+ },
+ "614": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/614.jpg"
+ },
+ "627": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/627.jpg"
+ },
+ "6359": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/6359.jpg"
+ },
+ "6388": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/6388.jpg"
+ },
+ "6417": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/6417.jpg"
+ },
+ "644": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/644.jpg"
+ },
+ "6442": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/6442.jpg"
+ },
+ "648": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/648.jpg"
+ },
+ "6563": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/6563.jpg"
+ },
+ "6660": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/6660.jpg"
+ },
+ "6682": {
+  "anomaly_class": "Cell",
+  "image_filepath": "images/6682.jpg"
+ },
+ "6733": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6733.jpg"
+ },
+ "6737": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6737.jpg"
+ },
+ "6755": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6755.jpg"
+ },
+ "676": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/676.jpg"
+ },
+ "6765": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6765.jpg"
+ },
+ "6767": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6767.jpg"
+ },
+ "6780": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6780.jpg"
+ },
+ "6787": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6787.jpg"
+ },
+ "6813": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6813.jpg"
+ },
+ "6815": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6815.jpg"
+ },
+ "6853": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6853.jpg"
+ },
+ "6854": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6854.jpg"
+ },
+ "6862": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6862.jpg"
+ },
+ "6865": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6865.jpg"
+ },
+ "6879": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6879.jpg"
+ },
+ "6899": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6899.jpg"
+ },
+ "6936": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6936.jpg"
+ },
+ "6941": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6941.jpg"
+ },
+ "6942": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6942.jpg"
+ },
+ "6955": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6955.jpg"
+ },
+ "6958": {
+  "anomaly_class": "Hot-Spot",
+  "image_filepath": "images/6958.jpg"
+ },
+ "700": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/700.jpg"
+ },
+ "7019": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7019.jpg"
+ },
+ "7061": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7061.jpg"
+ },
+ "7111": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7111.jpg"
+ },
+ "7194": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7194.jpg"
+ },
+ "723": {
+  "anomaly_class": "Offline-Module",
+  "image_filepath": "images/723.jpg"
+ },
+ "7305": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7305.jpg"
+ },
+ "7332": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7332.jpg"
+ },
+ "7348": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7348.jpg"
+ },
+ "7352": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7352.jpg"
+ },
+ "7377": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7377.jpg"
+ },
+ "7381": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7381.jpg"
+ },
+ "7383": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7383.jpg"
+ },
+ "7478": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7478.jpg"
+ },
+ "7494": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7494.jpg"
+ },
+ "7515": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7515.jpg"
+ },
+ "7530": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7530.jpg"
+ },
+ "7562": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7562.jpg"
+ },
+ "7599": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7599.jpg"
+ },
+ "7745": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7745.jpg"
+ },
+ "7860": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7860.jpg"
+ },
+ "7872": {
+  "anomaly_class": "Cracking",
+  "image_filepath": "images/7872.jpg"
+ },
+ "7917": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/7917.jpg"
+ },
+ "7925": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/7925.jpg"
+ },
+ "7929": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/7929.jpg"
+ },
+ "7936": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/7936.jpg"
+ },
+ "7939": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/7939.jpg"
+ },
+ "7979": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/7979.jpg"
+ },
+ "7994": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/7994.jpg"
+ },
+ "7995": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/7995.jpg"
+ },
+ "8007": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8007.jpg"
+ },
+ "8012": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8012.jpg"
+ },
+ "8015": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8015.jpg"
+ },
+ "8036": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8036.jpg"
+ },
+ "8055": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8055.jpg"
+ },
+ "8065": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8065.jpg"
+ },
+ "8076": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8076.jpg"
+ },
+ "8082": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8082.jpg"
+ },
+ "8094": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8094.jpg"
+ },
+ "8119": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8119.jpg"
+ },
+ "8121": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8121.jpg"
+ },
+ "8136": {
+  "anomaly_class": "Hot-Spot-Multi",
+  "image_filepath": "images/8136.jpg"
+ },
+ "8160": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8160.jpg"
+ },
+ "8173": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8173.jpg"
+ },
+ "8178": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8178.jpg"
+ },
+ "8195": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8195.jpg"
+ },
+ "8200": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8200.jpg"
+ },
+ "8204": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8204.jpg"
+ },
+ "8216": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8216.jpg"
+ },
+ "8243": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8243.jpg"
+ },
+ "8261": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8261.jpg"
+ },
+ "8265": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8265.jpg"
+ },
+ "8274": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8274.jpg"
+ },
+ "8279": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8279.jpg"
+ },
+ "8282": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8282.jpg"
+ },
+ "8283": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8283.jpg"
+ },
+ "8287": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8287.jpg"
+ },
+ "8311": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8311.jpg"
+ },
+ "8316": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8316.jpg"
+ },
+ "8322": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8322.jpg"
+ },
+ "8337": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8337.jpg"
+ },
+ "835": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/835.jpg"
+ },
+ "8353": {
+  "anomaly_class": "Soiling",
+  "image_filepath": "images/8353.jpg"
+ },
+ "8366": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/8366.jpg"
+ },
+ "846": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/846.jpg"
+ },
+ "854": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/854.jpg"
+ },
+ "8545": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/8545.jpg"
+ },
+ "859": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/859.jpg"
+ },
+ "862": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/862.jpg"
+ },
+ "873": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/873.jpg"
+ },
+ "876": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/876.jpg"
+ },
+ "879": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/879.jpg"
+ },
+ "8848": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/8848.jpg"
+ },
+ "890": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/890.jpg"
+ },
+ "9027": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9027.jpg"
+ },
+ "903": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/903.jpg"
+ },
+ "910": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/910.jpg"
+ },
+ "9217": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9217.jpg"
+ },
+ "924": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/924.jpg"
+ },
+ "927": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/927.jpg"
+ },
+ "931": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/931.jpg"
+ },
+ "943": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/943.jpg"
+ },
+ "9493": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9493.jpg"
+ },
+ "9496": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9496.jpg"
+ },
+ "9547": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9547.jpg"
+ },
+ "955": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/955.jpg"
+ },
+ "9571": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9571.jpg"
+ },
+ "9600": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9600.jpg"
+ },
+ "963": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/963.jpg"
+ },
+ "9669": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9669.jpg"
+ },
+ "968": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/968.jpg"
+ },
+ "9684": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9684.jpg"
+ },
+ "9697": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9697.jpg"
+ },
+ "9729": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9729.jpg"
+ },
+ "979": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/979.jpg"
+ },
+ "9795": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9795.jpg"
+ },
+ "9815": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9815.jpg"
+ },
+ "9816": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9816.jpg"
+ },
+ "9849": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9849.jpg"
+ },
+ "985": {
+  "anomaly_class": "Diode-Multi",
+  "image_filepath": "images/985.jpg"
+ },
+ "9857": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9857.jpg"
+ },
+ "9860": {
+  "anomaly_class": "Vegetation",
+  "image_filepath": "images/9860.jpg"
+ }
+}
