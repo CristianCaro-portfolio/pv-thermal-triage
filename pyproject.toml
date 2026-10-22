@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pv-thermal-triage"
+version = "0.1.0"
+description = "Thermal triage for solar PV drone inspections with a CPU CNN, DuckDB 2.0 precedent search and energy based work orders"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Cristian Caro" }]
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb>=2.0.0,<2.1",
+    "pyarrow>=15",
+    "numpy>=1.26",
+    "pillow>=10",
+    "torch>=2.3",
+    "scikit-learn>=1.4",
+    "matplotlib>=3.8",
+    "requests>=2.31",
+    "typer>=0.12",
+    "mlflow-skinny>=3.0",
+    "sqlalchemy>=2.0",
+    "alembic>=1.13",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[project.scripts]
+pvtriage = "pvtriage.cli:app"
+
+[tool.setuptools]
+packages = ["pvtriage"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff.lint.flake8-bugbear]
+extend-immutable-calls = ["typer.Option", "typer.Argument", "pathlib.Path"]
